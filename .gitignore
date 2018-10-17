@@ -1,0 +1,9 @@
+/.classpath
+/.idea/
+/.project
+/.settings/
+/.vscode/
+/target/
+/build/
+*.versionsBackup
+/*.iml
